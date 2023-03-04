@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-## Hey, jasonshu1229 here! :wave:
+## Hey, jasonshu1228 here! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jasonshu1229&show_icons=true&theme=dark">](https://metrics.lecoq.io/jasonshu1229#gh-light-mode-only)
 
